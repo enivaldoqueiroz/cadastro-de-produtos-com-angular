@@ -1,6 +1,15 @@
 # cadastro-de-produtos-com-angular
 Projeto cadastro de produtos desenvolvido em Angular 
 
+## Instalar o node_module angular
+Execute npm i ou 'npm install @angular/cli' para construir o projeto.
+
+## Executando Json-serve
+Execute npm start para executar o json-serve.
+
+## Executando projeto Angular
+Execute npm start ou 'ng serve' para executar o projeto.
+
 #Notas de configuração
 
 > - Criação do package.json
@@ -25,6 +34,4 @@ Projeto cadastro de produtos desenvolvido em Angular
 >
 >     - obs: npm start para iniciar o json-server
 >
->   
-
-## 
+>  
